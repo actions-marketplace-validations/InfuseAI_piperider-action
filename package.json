@@ -1,6 +1,6 @@
 {
   "name": "piperider-action",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "description": "PipeRider CLI GitHub Action",
   "main": "index.js",
   "scripts": {

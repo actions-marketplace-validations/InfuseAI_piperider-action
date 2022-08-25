@@ -10,7 +10,7 @@ See [action.yml](action.yml)
 ```yaml
 steps:
 ...
-- uses: InfuseAI/piperider-action@v0.5.0
+- uses: InfuseAI/piperider-action@v0.7.0
 ```
 
 # License
